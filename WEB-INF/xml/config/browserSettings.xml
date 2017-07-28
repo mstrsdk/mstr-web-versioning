@@ -1,0 +1,3 @@
+<browser-settings version="1.0">
+	<browser-setting name="dbf" value="32" />
+</browser-settings>

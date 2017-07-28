@@ -1,0 +1,17 @@
+.externalToolBuilders/
+.settings/
+.classpath
+.project
+build/
+bin/
+.mymetadata
+src/META-INF/
+target/
+*.idea
+.idea
+*.iml
+findbugs.xml
+.DS_Store
+.tern-project
+src/.DS_Store
+pom.xml
