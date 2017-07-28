@@ -1,5 +1,0 @@
-<prs>
-  <pr n="preventBrowserCaching" v="1"/>
-  <pr n="appVersion" v="20170401"/>
-  <pr n="addTimeStampToPreventCaching" v="1"/>
-</prs>
